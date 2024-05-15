@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Full stack developer 
+Aspiring Software Engineer 
 
 
 # 💻 Tech Stack:
