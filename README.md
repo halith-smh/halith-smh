@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halith</h1>
-<h3 align="center">Aspiring Software Developer from India</h3>
+<h3 align="center">Aspiring Software Developer </h3>
 
 💬 Ask me about React, Python & JS<br>⚡ Fun fact Debugging is my superpower!<br>📫 How to reach me mohamedhalith.smh@gmail.com
 
