@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <strong>Mohamed Halith</strong> &nbsp;·&nbsp; 👨‍💻 Software Engineer &nbsp;·&nbsp; 📍 Chennai, India
+  <strong>Mohamed Halith</strong> &nbsp;. 📍 Chennai, India
   <br/><br/>
   📫 <a href="mailto:mohamedhalith.smh@gmail.com">mohamedhalith.smh@gmail.com</a>
 </div>
